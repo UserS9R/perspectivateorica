@@ -152,6 +152,6 @@ div{
   img{
    max-width: 80% ;
    height: auto;
-   object-fit: ;
+   object-fit: contain ;
    border-radius: 0.5rem;
   }
