@@ -1,3 +1,3 @@
 # perspectivateorica
 
-Atividad pagina web
+Actividad pagina web
